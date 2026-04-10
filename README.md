@@ -2,8 +2,8 @@
 Tugas praktikum Minggu 4 - State & Events.
 
 ## 📸 Preview
-![App Greeting](link_screenshot_anda.png)
-
+![App Greeting]((https://github.com/jeviens777/praktek4/blob/main/assets/images/Sebelum.jpeg)).
+![App Greeting]((https://github.com/jeviens777/praktek4/blob/main/assets/images/Sesudah.jpeg)).
 ## 🛠️ Logic Implemented
 - **useState Hook:** Managing name and role input.
 - **Event Handlers:** onChangeText for real-time binding.
